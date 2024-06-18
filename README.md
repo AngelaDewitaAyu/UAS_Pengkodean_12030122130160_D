@@ -1,6 +1,6 @@
 # UAS Mata Kuliah Pengkodean dan Pemrograman
 
-Nama  : Angela Dewita Ayu
+<b>Nama  : Angela Dewita Ayu
 NIM   : 12030122130160
 Kelas : D
 
