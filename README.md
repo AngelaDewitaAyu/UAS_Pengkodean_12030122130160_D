@@ -78,13 +78,18 @@ Kasus : Menganalisis Pengaruh Diskon, Jumlah Followers Influencer dan Review Ter
 - Heatmap
 ![heatmap](https://github.com/AngelaDewitaAyu/UAS_Pengkodean_12030122130160_D/assets/167239973/a1bc7d1b-d688-4b88-bb14-0fcaf71f9010)
 
+- Bar Chart Unit Penjualan, Review, dan Platform Review
+![bar1](https://github.com/AngelaDewitaAyu/UAS_Pengkodean_12030122130160_D/assets/167239973/3eb0b6b0-0505-4e03-9060-5a22ecfb5e63)
 
+- Bar Chart Unit Penjualan, Diskon, dan Platform Penjualan
+![bar2](https://github.com/AngelaDewitaAyu/UAS_Pengkodean_12030122130160_D/assets/167239973/892419e1-0e48-4264-b866-acc41c8efedd)
 
 ## Hasil Analisis
 1. Scatterplot: Scatterplot menunjukan pengaruh beberapa faktor terhadap unit penjualan. Berdasarkan ke-3 scatterplot tersebut, terlihat hubungan positif antara review dan unit penjualan meski cenderung memiliki korelasi yang cenderung lemah. Produk dengan rating tinggi maupun rendah bisa memiliki penjualan yang tinggi atau rendah. Sehingga dapat disimpulkan bahwa terdapat faktor lain yang berpengaruh terhadap penjualan. Sedangkan pada faktor lainnya, scatterplot menunjukan tidak ada korelasi dengan unit penjualan.
 2. Pie Chart : Pie Chart menunjukan komposisi yang berkontribusi paling banyak terhadap unit penjualan. Hasil visualisasi menunjukkan bahwa produk Sheet Mask mendominasi penjualan sebesar 13,8% dari total penjualan sebanyak 31.650 unit. Platform penjualan seperti Shopee dan Tokopedia mendominasi penjualan sebanyak 15,9% dan 22,2%, sementara platform lain memiliki porsi yang lebih kecil. Selain itu dapat disimpulkan bahwa review pada MakeupAlley paling mempengaruhi keputusan pembeli menggunakan produk
 3. Histogram : Berdasarkan visualisasi data tersebut, dalam data terdapat puncak distribusi di rentang penjualan tertentu. Misalnya, banyak produk memiliki penjualan sekitar 900 unit.Standar deviasi dari data menunjukkan adanya variabilitas dalam unit penjualan. Produk memiliki penjualan yang bervariasi dari beberapa ratus hingga beberapa ribu unit. Distribusi dapat menunjukkan skewness, misalnya skewed ke kanan, yang berarti ada beberapa produk dengan penjualan yang sangat tinggi dibandingkan dengan sebagian besar produk lainnya.
 4. Heatmap: Visualisasi menunjukkan nilai korelasi antara unit penjualan dan harga setelah diskon menunjukkan korelasi positif atau negatif tergantung pada bagaimana harga setelah diskon disesuaikan dengan diskon yang diberikan. Korelasi yang rendah menunjukkan bahwa harga setelah diskon mungkin tidak banyak mempengaruhi penjualan.
+5. Bar Chart : Bar chart menunjukkan bahwa beberapa platform review dengan review tinggi memiliki unit penjualan yang lebih tinggi dibandingkan platform lainnya. Selain itu,terlihat bahwa penjualan di platform tertentu (misalnya, Shopee dan Tokopedia) lebih tinggi meskipun diskon yang diberikan bervariasi. Platform e-commerce populer memiliki penjualan yang tinggi.
 
 ## Kesimpulan
 Berdasarkan analisis yang sudah dilakukan, dapat diketahui bahwa 	produk Sheet mask(pack of 5) berkontribusi paling banyak pada total penjualan. Selain itu, e-commerce Shopee dan Tokopedia menyumbang pendapatan terbanyak dibanding e-commerce lainnya.
